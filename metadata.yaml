@@ -1,0 +1,31 @@
+_repo: Search-Light-Letters_37613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grant, Robert
+    birthdate: 1852
+    deathdate: 1940
+    gutenberg_agent_id: '2515'
+    url: http://www.gutenberg.org/2009/agents/2515
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Grant_%28novelist%29
+description: To a young man or woman in search of the ideal. -- To a modern woman
+  with social ambitions. -- To a young man wishing to be an American. -- To a political
+  optimist.
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37613'
+  lccn: '99004207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs'
+- !lcc 'PS'
+- !lcsh 'Idealism'
+title: Search-Light Letters
+url: http://www.gutenberg.org/ebooks/37613
